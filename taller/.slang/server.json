@@ -1,0 +1,14 @@
+{
+  "index": [
+    {
+      "dirs": ["ejercicios"],
+      "excludeDirs": [
+        "build"
+      ]
+    }
+  ],
+  "flags": "-Wno-empty-output-connection +incdir+ejercicios/lib",
+  "inlayHints": {
+    "portTypes": false
+  }
+}
